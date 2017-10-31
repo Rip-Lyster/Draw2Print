@@ -1,0 +1,10 @@
+Draw2Print is a gcode generator implemented in python using tkinter. My program
+allows the user to input a profile of the shape that they want to create into the drawing
+window and then slice the object to create the actual gcode that can then be used to print
+the object. This solves the problem that is currently faced with 3d printing of the user
+having to use 2 different programs to get the gcode to print their object. This program also
+simplifies the process of modelling an object for 3d printing by providing the user with
+a 2d drawing canvas and only asking for the drawing and the height of the profile. The UI is
+built around simplicity. I put help text on every screen and also offer an in depth help text
+on a seperate screen. There are also settings for only what the algorithm needs to calculate
+the gcode. This means that the user doesn't have to worry about any unneccessary settings.

@@ -1,0 +1,18 @@
+Make the text file pop up
+Start building from top
+splash screen
+help screen
+option to choose the file name
+lines to look more 3d, off the bottom of the point
+middle drag point
+show point coords
+multiple objects in 1 layer
+screenshot area of obj (pillow screenshot)
+
+have directions to look into gcode.txt
+flying chinese character
+tkinter browser feature
+
+
+
+
